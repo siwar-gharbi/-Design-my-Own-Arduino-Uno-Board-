@@ -32,3 +32,8 @@ Designed an Arduino electronic board using Altium Designer, involving component 
 # 6. Gerber files, DC Drill Files and Pick and Place Files
 ![image](https://github.com/siwar-gharbi/-Design-my-Own-Arduino-Uno-Board-/assets/109144779/015ea9be-dbc7-462d-821f-736ac747a698)
 ![image](https://github.com/siwar-gharbi/-Design-my-Own-Arduino-Uno-Board-/assets/109144779/4c2397d7-fae7-4e96-86a0-71fe932d069d)
+# Real photo of Arduino UNO R3
+![image](https://github.com/siwar-gharbi/-Design-my-Own-Arduino-Uno-Board-/assets/109144779/cce8b4e0-86f9-4613-a9b0-d23dd348063b)
+
+
+
